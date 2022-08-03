@@ -1,0 +1,130 @@
+#lamtext {
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+
+}
+
+h5 {
+    color: gold;
+}
+
+/* 
+body {
+    background-color: black;
+
+} */
+.lamimg {
+    background-image: url("lamcs.webp");
+
+
+}
+
+.signin {
+    color: red;
+    font-size: large;
+}
+
+#lamjs {
+    /* text-align: center; */
+    margin: 80px;
+    /* margin-left: 500px; */
+}
+
+#hehe {
+    color: red;
+    font-style: italic;
+    text-align: center;
+    margin-top: 60px;
+}
+
+/* Lamborghini Footer */
+.css-9pd439 {
+    background-color: #181818;
+    color: greenyellow;
+    position: relative;
+    z-index: 99;
+
+}
+
+.lam1 {
+    width: 50%;
+    float: left;
+}
+
+.lam2 {
+    width: 50%;
+    float: right;
+}
+
+#lalla2 {
+    float: right;
+}
+
+#lammarquee {
+    color: greenyellow;
+    background-color: red;
+    /* margin-left: 100px; */
+    height: 90px;
+    width: 300px;
+    font-size: large;
+    margin: 40px;
+    text-align: center;
+}
+
+#lammarquee1 {
+    color: greenyellow;
+    background-color: red;
+    /* margin-left: 200px; */
+    height: 90px;
+    width: 300px;
+    font-size: large;
+    margin-top: 80px;
+
+
+
+}
+
+#amt {
+    margin-top: 50px;
+    border: lime 4px inset;
+    margin-left: 7%;
+    font-style: italic;
+
+}
+
+#lpricep {
+    color: yellow;
+    margin-top: 100px;
+    margin-left: 35%;
+    height: 20px;
+    font-size: 18px;
+}
+
+#btnamt {
+    background-color: red;
+    font-family: monospace;
+    margin-top: 10px;
+    margin-left: 35%;
+    height: 100px;
+    width: 400px;
+    font-size: 22px;
+}
+
+#developercontact {
+    color: blue;
+    margin-top: 300px;
+    display: flex;
+}
+
+.fadeo1 {
+    display:none !important ;
+}
+.fadeo2 {
+    display: none !important;
+}
+.fadeo3 {
+    display: none !important;
+}
+.fadeo4 {
+    display: none !important;
+}
